@@ -14,3 +14,6 @@
 
 
 * [Dataset Gallery/ Climate.gov](https://www.climate.gov/maps-data/datasets/formats/json): To find datasets of interest, glance through the entries below, enter a search term to the left, or click terms under the filters to refine the list.
+
+
+* [9 global warming datasets](https://data.world/datasets/global-warming): There are 9 global warming datasets available on data.world.
