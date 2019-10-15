@@ -18,4 +18,7 @@ This dataset contains an Year wise Record of flood damage in India! It might hel
 * [CO2 PPM - Trends in Atmospheric Carbon Dioxide](http://datahub.io/core/co2-ppm) CO2 levels sourced from the US Government's Earth System Research Laboratory, both Mauna Loa and Global Average series provided
 
 * [Worldwide Glacier Mass](datahub.io/core/glacier-mass-balance#readme) The cumulative change in mass balance of a set of "reference" glaciers beginning in 1945
+
+* [Open Flood Risk by Postcode](https://data.world/getthedata/open-flood-risk-by-postcode) Open Flood Risk by Postcode is derived from the Environment Agency's Risk of Flooding from Rivers and Sea which allocates a risk level to areas in England, UK. Using postcode data from Open Postcode Geo, each English postcode is placed in its risk area, allowing a flood risk level to be allocated to a postcode.
+
 * [Air Quality in Madrid (2001-2018)](https://www.kaggle.com/decide-soluciones/air-quality-madrid) The different pollution levels in Madrid from 2001 to 2018
