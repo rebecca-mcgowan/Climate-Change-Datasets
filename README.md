@@ -19,4 +19,8 @@ This dataset contains an Year wise Record of flood damage in India! It might hel
 
 * [Worldwide Glacier Mass](datahub.io/core/glacier-mass-balance#readme) The cumulative change in mass balance of a set of "reference" glaciers beginning in 1945
 
-[FEMA Floodzones for Cuyahoga County](https://data.world/smartcolumbusos/78602b25-9931-4984-bc85-fd87ef6cc9f8) A Regional Floodzones Dataset by Cuyahoga County
+* [FEMA Floodzones for Cuyahoga County](https://data.world/smartcolumbusos/78602b25-9931-4984-bc85-fd87ef6cc9f8) A Regional Floodzones Dataset by Cuyahoga County
+
+* [Open Flood Risk by Postcode](https://data.world/getthedata/open-flood-risk-by-postcode) Open Flood Risk by Postcode is derived from the Environment Agency's Risk of Flooding from Rivers and Sea which allocates a risk level to areas in England, UK. Using postcode data from Open Postcode Geo, each English postcode is placed in its risk area, allowing a flood risk level to be allocated to a postcode.
+
+* [Air Quality in Madrid (2001-2018)](https://www.kaggle.com/decide-soluciones/air-quality-madrid) The different pollution levels in Madrid from 2001 to 2018
